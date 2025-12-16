@@ -26,8 +26,6 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
-
-#dckr_pat_QqbcVtasGFILFrW_dmkD7Ttt1jg
 !**/src/main/**/build/
 !**/src/test/**/build/
 
